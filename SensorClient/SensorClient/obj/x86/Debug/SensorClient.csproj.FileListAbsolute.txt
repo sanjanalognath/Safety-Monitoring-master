@@ -1,0 +1,24 @@
+/Users/zazzy/Projects/SensorClient/SensorClient/obj/x86/Debug/SensorClient.csprojResolveAssemblyReference.cache
+/Users/zazzy/Projects/SensorClient/SensorClient/obj/x86/Debug/SensorClient.csproj.CoreCompileInputs.cache
+/Users/zazzy/Projects/SensorClient/SensorClient/bin/Debug/SensorClient.exe
+/Users/zazzy/Projects/SensorClient/SensorClient/bin/Debug/SensorClient.pdb
+/Users/zazzy/Projects/SensorClient/SensorClient/bin/Debug/DoorServer.exe
+/Users/zazzy/Projects/SensorClient/SensorClient/bin/Debug/DoorServer.pdb
+/Users/zazzy/Projects/SensorClient/SensorClient/obj/x86/Debug/SensorClient.exe
+/Users/zazzy/Projects/SensorClient/SensorClient/obj/x86/Debug/SensorClient.pdb
+/Users/zazzy/Projects/SensorClient/SensorClient/bin/Debug/FloorServer.exe
+/Users/zazzy/Projects/SensorClient/SensorClient/bin/Debug/WindowServer.exe
+/Users/zazzy/Projects/SensorClient/SensorClient/bin/Debug/WindowServer.pdb
+/Users/zazzy/Projects/SensorClient/SensorClient/bin/Debug/FloorServer.pdb
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\bin\Debug\SensorClient.exe
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\bin\Debug\SensorClient.pdb
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\bin\Debug\DoorServer.exe
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\bin\Debug\FloorServer.exe
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\bin\Debug\WindowServer.exe
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\bin\Debug\DoorServer.pdb
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\bin\Debug\WindowServer.pdb
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\bin\Debug\FloorServer.pdb
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\obj\x86\Debug\SensorClient.csprojResolveAssemblyReference.cache
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\obj\x86\Debug\SensorClient.csproj.CoreCompileInputs.cache
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\obj\x86\Debug\SensorClient.exe
+E:\Books\Client Server\net pro\Archive\SensorClient\SensorClient\obj\x86\Debug\SensorClient.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E86604FA-5F77-4933-A432-4CDD5F749A07}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FloorServer/Program.cs">
+    <Files>
+      <File FileName="FloorServer/Program.cs" Line="15" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FloorServer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/zazzy/Projects/FloorServer/FloorServer/bin/Debug/FloorServer.exe
+/Users/zazzy/Projects/FloorServer/FloorServer/bin/Debug/FloorServer.pdb
+/Users/zazzy/Projects/FloorServer/FloorServer/obj/x86/Debug/FloorServer.csproj.CoreCompileInputs.cache
+/Users/zazzy/Projects/FloorServer/FloorServer/obj/x86/Debug/FloorServer.exe
+/Users/zazzy/Projects/FloorServer/FloorServer/obj/x86/Debug/FloorServer.pdb
+E:\Books\Client Server\net pro\Archive\FloorServer\FloorServer\bin\Debug\FloorServer.exe
+E:\Books\Client Server\net pro\Archive\FloorServer\FloorServer\bin\Debug\FloorServer.pdb
+E:\Books\Client Server\net pro\Archive\FloorServer\FloorServer\obj\x86\Debug\FloorServer.csproj.CoreCompileInputs.cache
+E:\Books\Client Server\net pro\Archive\FloorServer\FloorServer\obj\x86\Debug\FloorServer.exe
+E:\Books\Client Server\net pro\Archive\FloorServer\FloorServer\obj\x86\Debug\FloorServer.pdb

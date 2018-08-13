@@ -1,0 +1,12 @@
+/Users/zazzy/Projects/WindowServer/WindowServer/bin/Debug/WindowServer.exe
+/Users/zazzy/Projects/WindowServer/WindowServer/bin/Debug/WindowServer.pdb
+/Users/zazzy/Projects/WindowServer/WindowServer/obj/x86/Debug/WindowServer.csprojResolveAssemblyReference.cache
+/Users/zazzy/Projects/WindowServer/WindowServer/obj/x86/Debug/WindowServer.csproj.CoreCompileInputs.cache
+/Users/zazzy/Projects/WindowServer/WindowServer/obj/x86/Debug/WindowServer.exe
+/Users/zazzy/Projects/WindowServer/WindowServer/obj/x86/Debug/WindowServer.pdb
+E:\Books\Client Server\net pro\Archive\WindowServer\WindowServer\bin\Debug\WindowServer.exe
+E:\Books\Client Server\net pro\Archive\WindowServer\WindowServer\bin\Debug\WindowServer.pdb
+E:\Books\Client Server\net pro\Archive\WindowServer\WindowServer\obj\x86\Debug\WindowServer.csprojResolveAssemblyReference.cache
+E:\Books\Client Server\net pro\Archive\WindowServer\WindowServer\obj\x86\Debug\WindowServer.csproj.CoreCompileInputs.cache
+E:\Books\Client Server\net pro\Archive\WindowServer\WindowServer\obj\x86\Debug\WindowServer.exe
+E:\Books\Client Server\net pro\Archive\WindowServer\WindowServer\obj\x86\Debug\WindowServer.pdb

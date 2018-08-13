@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{23296803-C01D-443E-8383-D4F935607083}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SensorClient/Program.cs">
+    <Files>
+      <File FileName="SensorClient/Program.cs" Line="105" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SensorClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

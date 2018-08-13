@@ -1,0 +1,10 @@
+/Users/zazzy/Projects/DoorServer/DoorServer/bin/Debug/DoorServer.exe
+/Users/zazzy/Projects/DoorServer/DoorServer/bin/Debug/DoorServer.pdb
+/Users/zazzy/Projects/DoorServer/DoorServer/obj/x86/Debug/DoorServer.csproj.CoreCompileInputs.cache
+/Users/zazzy/Projects/DoorServer/DoorServer/obj/x86/Debug/DoorServer.exe
+/Users/zazzy/Projects/DoorServer/DoorServer/obj/x86/Debug/DoorServer.pdb
+E:\Books\Client Server\net pro\Archive\DoorServer\DoorServer\bin\Debug\DoorServer.exe
+E:\Books\Client Server\net pro\Archive\DoorServer\DoorServer\bin\Debug\DoorServer.pdb
+E:\Books\Client Server\net pro\Archive\DoorServer\DoorServer\obj\x86\Debug\DoorServer.csproj.CoreCompileInputs.cache
+E:\Books\Client Server\net pro\Archive\DoorServer\DoorServer\obj\x86\Debug\DoorServer.exe
+E:\Books\Client Server\net pro\Archive\DoorServer\DoorServer\obj\x86\Debug\DoorServer.pdb
